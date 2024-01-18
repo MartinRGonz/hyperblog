@@ -1,3 +1,0 @@
-Texto de prueba para probar el git rm --cached y el git reset HEAD.
-
-Este es el texto de master.
